@@ -1,4 +1,4 @@
-# Sesli-Asistan
+
 import speech_recognition as sr
 from datetime import datetime
 import webbrowser
